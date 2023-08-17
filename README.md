@@ -8,6 +8,12 @@ ClipText is an OCR (Optical Character Recognition) utility designed to capture t
 - Extract text from the taken screenshot using Tesseract.
 - Immediately copy the extracted text to your clipboard.
 
+## Coming Soon Features:
+
+- **Selective Text Capture**: Introducing the ability to crop your screen and extract text exclusively from the area of interest.
+- **Refined User Interface**: Experience a cleaner and more intuitive user interaction.
+- **Standalone Installer**: Hassle-free installation with our dedicated executable installer for an even smoother user experience.
+
 ## Prerequisites
 
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
