@@ -1,0 +1,6 @@
+pyautogui
+cv2
+pytesseract
+pyperclip
+tensorflow
+tensorflow-datasets
