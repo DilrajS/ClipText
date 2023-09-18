@@ -48,12 +48,12 @@ Within this repository, you'll find a Jupyter Notebook illustrating the process 
 
 ### Concepts Highlighted in the Notebook:
 
-- Data loading and preprocessing.
-  - Normalization.
-  - Reshaping.
-  - Data Augmentation.
-  - Orientation Correction.
-  - Label Encoding.
+- Data loading and preprocessing
+  - Normalization
+  - Reshaping
+  - Data Augmentation
+  - Orientation Correction
+  - Label Encoding
 
 ## Licensing Notes
 
