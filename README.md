@@ -1,7 +1,7 @@
 # ClipText
 
 # Table of Contents
-1. [What is ClipText](#What-is-ClipText?)
+1. [What is ClipText](#what-is-cliptext)
 2. [Features](#features)
 3. [Coming Soon Features](#coming-soon-features)
 4. [Prerequisites](#prerequisites)
