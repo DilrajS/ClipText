@@ -1,7 +1,7 @@
 # ClipText
 
 # Table of Contents
-1. [ClipText](#cliptext)
+1. [What is ClipText](#What-is-ClipText?)
 2. [Features](#features)
 3. [Coming Soon Features](#coming-soon-features)
 4. [Prerequisites](#prerequisites)
@@ -14,6 +14,7 @@
 10. [About the Author](#about-the-author)
 
 
+# What is ClipText?
 **ClipText** is an **OCR** (Optical Character Recognition) utility designed to capture text from screenshots instantly. Built with Tesseract, ClipText offers accuracy and efficiency in text extraction. A supplementary Jupyter Notebook also showcases the training of a basic OCR model to underline the understanding of the technology, even though the primary app leverages Tesseract.
 
 ## Features:
