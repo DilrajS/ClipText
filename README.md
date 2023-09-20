@@ -44,16 +44,23 @@ python cliptext.py
 
 ## Supplementary OCR Training Notebook
 
-Within this repository, you'll find a Jupyter Notebook illustrating the process of training an OCR model using the EMNIST dataset. The main application relies on Tesseract because of its robust accuracy — a result of extensive research and investment. However, the provided notebook offers a conceptual dive into OCR's workings.
+This repository contains a Jupyter Notebook that details the journey of building and training an OCR (Optical Character Recognition) model from scratch using the EMNIST dataset. While the primary application of this project leverages the Tesseract OCR system due to its well-established accuracy and robustness, the notebook serves as an educational tool. It elucidates the foundational concepts and practical steps involved in crafting an OCR system, providing hands-on experience with the nuances of deep learning-based character recognition.
 
-### Concepts Highlighted in the Notebook:
+### Key Features and Concepts Illustrated:
 
-- Data loading and preprocessing.
-  - Normalization.
-  - Reshaping.
-  - Data Augmentation.
-  - Orientation Correction.
-  - Label Encoding.
+- **Data Exploration and Visualization**: Gaining insights into the EMNIST dataset and understanding its structure.
+- **Data Preprocessing**:
+  - Image Normalization: Ensuring uniformity in pixel values to aid in model convergence.
+  - Image Reshaping: Converting images to the desired shape suitable for deep learning models.
+  - Label Encoding: Transforming categorical labels into a format that can be fed into neural networks.
+  - Data Augmentation: Introducing variations in the training data to improve generalization.
+- **Model Building and Training**:
+  - Architecting a Convolutional Neural Network (CNN) suitable for character recognition.
+  - Training the model using the processed dataset and monitoring performance metrics.
+- **Evaluation**: Assessing the model's performance on unseen data, understanding its strengths, and identifying areas for improvement.
+
+This notebook serves as a testament to the intricate yet fascinating world of OCR, offering both beginners and veterans insights into building an OCR system outside of industrial-strength solutions like Tesseract.
+
 
 ## Licensing Notes
 
